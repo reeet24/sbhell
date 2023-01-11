@@ -7,8 +7,6 @@ import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.item.enchantment.Enchantment;
 import net.minecraft.world.item.enchantment.EnchantmentCategory;
 
-import java.lang.Integer;
-
 public class AdvancedSharpness extends Enchantment {
     public AdvancedSharpness(Rarity rarity, EnchantmentCategory enchantType, EquipmentSlot[] slotType) {
         super(rarity, enchantType, slotType);

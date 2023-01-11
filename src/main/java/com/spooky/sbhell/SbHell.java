@@ -20,7 +20,7 @@ public class SbHell {
 
     public static final String MOD_ID = "sbhell";
 
-    public static final CreativeModeTab TUTORIAL_TAB = new CreativeModeTab("Sb Hell") {
+    public static final CreativeModeTab TUTORIAL_TAB = new CreativeModeTab("sb_hell") {
         @Override
         @OnlyIn(Dist.CLIENT)
         public ItemStack makeIcon() {
@@ -28,7 +28,7 @@ public class SbHell {
         }
     };
 
-    public static final CreativeModeTab MATERIALS_TAB = new CreativeModeTab("Sb Hell Materials") {
+    public static final CreativeModeTab MATERIALS_TAB = new CreativeModeTab("sb_hell_materials") {
         @Override
         @OnlyIn(Dist.CLIENT)
         public ItemStack makeIcon() {
