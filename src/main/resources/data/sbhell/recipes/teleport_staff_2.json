@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "sbhell:teleport_staff_1"
+  },
+  "addition": {
+    "item": "minecraft:amethyst_block"
+  },
+  "result": {
+    "item": "sbhell:teleport_staff_2"
+  }
+}

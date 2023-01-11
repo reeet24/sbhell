@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "sbhell:crushed_steel"
+  },
+  "result": "sbhell:steel_ingot",
+  "experience": 1.0,
+  "cookingtime": 600
+}

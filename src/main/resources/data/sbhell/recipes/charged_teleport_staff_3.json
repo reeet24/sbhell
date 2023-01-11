@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "sbhell:teleport_staff_3"
+  },
+  "addition": {
+    "item": "sbhell:charged_crystal"
+  },
+  "result": {
+    "item": "sbhell:charged_teleport_staff_3"
+  }
+}

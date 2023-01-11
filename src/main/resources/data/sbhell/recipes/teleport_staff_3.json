@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " +?",
+    " #+",
+    "/  "
+  ],
+  "key": {
+    "?": {
+      "item": "minecraft:obsidian"
+    },
+    "#": {
+      "item": "sbhell:teleport_staff_2"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "+": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "sbhell:teleport_staff_3"
+  }
+}
