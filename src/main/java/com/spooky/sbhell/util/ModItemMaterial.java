@@ -16,7 +16,7 @@ public enum ModItemMaterial implements Tier {
        return Ingredient.of(ItemInit.FERROTITANIUM_INGOT.get());
     }),
 
-    DIRT(10, 1, 100.0F, 0.0F, 1, () -> {
+    DIRT(10, 1, 75.0F, 0.0F, 1, () -> {
         return Ingredient.of(ItemInit.DIRT_INGOT.get());
     });
 
